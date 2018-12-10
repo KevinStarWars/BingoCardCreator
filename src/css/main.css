@@ -1,0 +1,11 @@
+.square {
+    background: #ffffff;
+    width: 20vw;
+    height: 20vw;
+    border: solid black;
+    display: inline-block;
+}
+.square h1 {
+    color: #000000;
+    text-align: center;
+}
